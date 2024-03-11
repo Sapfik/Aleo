@@ -2,6 +2,10 @@
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
+// Pseudocode to display a Discord username
+Define username as "alphabatcher"
+Display "My Discord username is:", alphabatcher
+
 A standard game of Tic-Tac-Toe in Leo.
 
 ⭕ ❕ ⭕ ❕ ❌
